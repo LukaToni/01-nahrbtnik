@@ -1,0 +1,39 @@
+Some computer scientists without conscience bread you serve with the theft of files with sensitive content.
+On black market circulate lists, which are given on the size of the file you specified
+server and the prices are subscribers willing to pay for them.
+Each capable of villain knows that the penetration of a limited amount of time before it can be traced, in
+which can be transferred from the server a limited amount of data. Due to the encryption, in part,
+downloaded files are not useful for them and not get a penny. Therefore, it is very important
+decide which file to download, as it is dependent on this final earnings. 
+A find optimal solution is not so easy.
+
+Write a program that will be the data for a particular server calculate the maximum earnings
+which can be achieved by optimal selection of downloaded files. The sum of the sizes
+downloaded files must not exceed the specified limits.
+
+The data will be in the first line containing a positive integer that represents the restriction
+the total size of data transferred (1 ≤ V ≤ 10 ^ 9).
+This will be followed by 40 lines, each containing two positive integers separated by a space:
+
+vi ci
+
+The first (1 ≤ vi ≤ 10 ^ 9) represents the size of the other (1 ≤ s ≤ 10 ^ 9), the price ite
+files.
+
+Program to the standard output the result as well as the newline character ('\ n').
+
+Example:
+
+Input:
+
+2014
+500 36
+1000 100
+16 8
+500 42
+1024 120
+10 2
+
+Output:
+
+180
